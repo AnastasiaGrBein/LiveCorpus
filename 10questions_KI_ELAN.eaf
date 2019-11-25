@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-11-25T22:23:51+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/ASUS/Documents/Hogwarts/Ivlev2.mov" MIME_TYPE="video/quicktime" RELATIVE_MEDIA_URL="./Ivlev2.mov"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:20757abf-7ff6-4fe3-bfea-f76643102123</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">41</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="479659"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="480279"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="480279"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="484599"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="484703"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="501031"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="501359"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="508359"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="508796"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="518843"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="519328"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="527687"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="528031"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="531093"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="531234"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="533296"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="534125"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="561890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="562140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="570140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="570562"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="572687"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="573109"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="573906"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="573906"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="573959"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="578919"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="579187"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="579187"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="587125"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="587812"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="594656"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="595450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="616700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="617425"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="624600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="624925"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="652975"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="654025"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="667925"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="668350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="681420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="682080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="683540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="684640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="685620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="685760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="702500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="702780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="715160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="715400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="738240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="738240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="738379"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="744339"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="744420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="744420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="745680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="746560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="756180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="758180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="766280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="767220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="769680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="770660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="773040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="773320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="778580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="778960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="794380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="794380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="794619"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="798599"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="798680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="798699"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="799379"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="799859"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="800719"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="801759"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="802739"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="803039"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="804279"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="#-text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>time_begin = 8:00</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>на экране вопрос / зачем маленькое блюдо кладут на огромную тарелку? #</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="@ivlev1974-text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>это стёб / потому что / знаешь / я недавно был в / ээээээ / в Питере и вот смотрел я на этого Малевича и нихера не понял / зачем чувак на большое полотно нанёс квадрат / и все по этому сходят с ума? / наверное мы вот такие же /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>знаешь / здесь / ээээээ / это французкий стиль / в первую очередь это фрэнч дэкузин / да то есть это они любители </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>гострономических театров / галаужинов / большого количества подачь / поэтому там чтобы не переедалось / ии / зачастую мы иногда / либо попуализируем пиарим тарелку </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>показываем насколько мы крутыые / либо наоборот мы хотим / эээ / наэээ / на первый план / да то есть / вывести / соответственно / продукт </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>пусть его немного / но это / жирдяйство /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>знаешь / в Германии есть один ресторан </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>у шефа несколько звёзд Мешлен / его философия заключается в том / что он говорит что / мы люди / кайф получаем от первых двух / трёх ложек вилок / потом уже всё / пресыщение / это как любовь / да то есть / то есть ты любишь у тебя первая неделя эйфория / ты никого не слушаешь / ты проникаешься / а потом пипец / пошла / где мои носки? / мляэть / стирать / туда сюда / то есть / вот еда то же самое / так вот у неё еда вся базируется на этой истории / у неё вся маленькая еда / то есть до сих пор /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>в России / к сожалению / французкая кухня не прижилась именно поэтому / все считали о том / что за / писюнчитая история / да то есть / лежит на тарелке </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>а это / на самом деле / не писюнчитая / это </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>творчество </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>молекулярной кухни прикол в том что это / ээ / показывает всем / что развивается не токо / эээээээ / ракеты </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>не только спорт / ну и кулинария в том числе / да то есть / молекулярная кухня это / большая работа неских коллег/ а </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>в началом / вначале своего этапа а щас это уже большое количество людей / тех кулинаров / аа / которые / эээээээ / которым стало / ээээ / тесно в определённых рамках / они решили использовать и соединять физически химические какие то истории / да тое есть / надо отдать одлжное / это круто / вообще / если ты повор / ээ / надо знать </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>или по крайней мере что то уметь / потому что во многих случаях это очень полезно / экономически / и правильно /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>взять / например / тоже вот это вот любимое всеми эспумэ / пенка / она делается на основе лецитина / лецитин это соевый белок / да / который сам по себе / ээээ / является как порошок / его потои вводят в соус / да то есть при определённой температуре начинают взбивать / и пр- образуется пенка / как помнишь в детских кислородные коктейли / токо кислородные коктейли у тебя пенка очень быстро садиться / за счет того что у тебя есть лецитин / да то есть он взбивается / у тебя пенка стоячая </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>а теперь чтоб ты понимал / да то есть / вот в мясо мы можем налить ложку соуса / да в среднем это шде то пятдесят граммов / да / не в одной ложке я имею ввиду / а вот на порцию пятдесят грамм / да / вот / аа / если ты делаешь эспумэ </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>то оно на много легче / и тебе достаточно будет пятнадцати двадцати граммов / понимаешь чтобы у тебя было и объёмно / и тебе хватило / для того чтобы ты / ээ / попробовал / экономично? / экономично / страшно? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>не очень / но кто не знает </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>им очень страшно / </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>но они даже сами / знаешь / вот законодатели блюменталь / ээээм / эльбуи / да то есть они сами говорят что / эээ / больше пятидесяти процентов людей которые посещают ресторан с молекулярной кухней / они потом идут в макдональдс и отъедаются / потому что там ну / пфр / это очень высокая материя </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>высокая материя не то что человек не поймёт / ааа / высокая материя заключается в том что тебе надо этим увлекаться / потому что если ты придёшь неподготовленный / да то есть всю жизнь ел сосиски либо доширак / пришёл в молекулярный ресторан / конечно ты нихера не поймёшь </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>тебе принесли пенку / а она со вкусом селёдки / и ты сидишь и думаешь/ ну как так / суки что то здесь намудрили / а на самом деле ниче страшного нет / всё нормально / просто взяли сделали выжимку / вот у нас есть там Толя Ком / да то есть один из первых русских шефов / который занялся / высокой русской молекулярной кухней / он запатентовал мороженое / мороженое винегрет / оливье / селёдка / полная херня / но зато он себя считает крутым </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>один в поле не воин </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>понимаешь / эээ / не Жуков же выиграл войну / Велику Отечественную / и не многие другие генералы / поэтому в этом плане / понимаешь / ты можешь быть крутым шефом </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>ноо / ты один не сможешь обслужить большое количество гостей / ну это ты с ума просто сойдёшь/ есть маленькие заведения / да то есть буквально там на </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>где готовит вот один шеф / да то есть шеф тэйбл </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>там десять пятнадцать / зачем с ума сходить? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>когда можно взять / один те рыбку почистит / другой те это сделает / третий это / да нет / ну </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>надо надо надо надо / надо / одному очень сложно / да и не нужно / надо учить людей / ты ж передаёшь знания / понимаешь / чем больше будет нормальных людей / тем будет одыкватнее / что в телевидение / да то есть что в кухне / что во всём остальном / поэтому один в поле не воин </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>пудинг </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>дааа </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>красавчик /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>#смеётся#</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="#на-text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>экране вопрос / в чём прикол молекулярной кухни? #</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>экране вопрос / если шеф-повар готовит лучше всех / зачем остальные на кухне? #</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts73">
+                <ANNOTATION_VALUE>экране вопрос / пудинг красавчик? #</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" CONTROLLED_VOCABULARY_REF="Gesture phases" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001" LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_38abe23f-93fe-433d-9295-23bda63e7e7d">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_fa996ff2-1319-4b55-b39e-1a1860406313">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9d430dec-f2e5-44ac-a28d-0dbd0e69fcb9">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_477dcaee-6e5c-413c-80dd-558b199acc48">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_4e8c5ca1-e182-4f8f-9de1-8cbaad6209dd">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f20526ce-32c5-4827-9992-c60841f94250">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_05688e7b-ccae-4877-a54d-e67552590812">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3e8dd5d7-bf0f-4a72-aa39-f040c1b849e3">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c365df32-33cd-429d-8a11-d47d29ff377d">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_744ef74d-b368-4283-b7b7-21347f18e222">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e4093be3-8289-4399-ae91-2ada51a74fac">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ddc1b2cc-7c17-4c60-ba24-ef7012785680">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5b18cfce-68be-4951-b9e0-001580416dcd">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3d159664-61c3-4d02-b6cd-5168ee143843">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_219b4c99-1f17-4a5c-949c-ea6ec14efe43">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_dd165697-2ed4-45d7-8b13-867d93be6be8">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4533fa03-7af2-409c-a69e-614007e6fe0d">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
